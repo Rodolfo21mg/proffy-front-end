@@ -16,7 +16,7 @@ const TeacherItem: React.FC = () => {
       </header>
 
       <p>
-        Mestre em ensinar informática basica para iniciantes. Paciência é meu lema.
+        Mestre em ensinar compartilhar conhecimento basico para iniciantes.
         <br/><br/>
         Text
       </p>
@@ -24,7 +24,7 @@ const TeacherItem: React.FC = () => {
       <footer>
         <p>
           Preço/hora
-          <strong>R$ 20,00</strong>
+          <strong>R$ 100,00</strong>
         </p>
         <button type="button">
           <img src={whatsappIcon} alt="Whatsapp"/>
